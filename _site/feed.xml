@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-01-21T17:37:00+08:00</updated><id>http://localhost:4000/</id><title type="html">Hogwild’s blog</title><subtitle>A blog in mathematics.
+</subtitle><author><name>Hogwild</name><email>guxianbinmail@gmail.com</email></author><entry><title type="html">Building Blog With Jekyll</title><link href="http://localhost:4000/2018/01/21/building-blog-with-jekyll.html" rel="alternate" type="text/html" title="Building Blog With Jekyll" /><published>2018-01-21T00:00:00+08:00</published><updated>2018-01-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/01/21/building-blog-with-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/01/21/building-blog-with-jekyll.html">&lt;h1 id=&quot;building-blog-with-jekyll&quot;&gt;Building blog with Jekyll&lt;/h1&gt;</content><author><name>Hogwild</name><email>guxianbinmail@gmail.com</email></author><summary type="html">Building blog with Jekyll</summary></entry><entry><title type="html">Discrete math Homework week 1</title><link href="http://localhost:4000/2018/01/21/DM-Homework-w1.html" rel="alternate" type="text/html" title="Discrete math Homework week 1" /><published>2018-01-21T00:00:00+08:00</published><updated>2018-01-21T00:00:00+08:00</updated><id>http://localhost:4000/2018/01/21/DM-Homework-w1</id><content type="html" xml:base="http://localhost:4000/2018/01/21/DM-Homework-w1.html">&lt;h1 id=&quot;discrete_math-the-exercises&quot;&gt;Discrete_math: the Exercises&lt;/h1&gt;
+
+&lt;h2 id=&quot;week-1&quot;&gt;Week 1:&lt;/h2&gt;
+&lt;h4 id=&quot;chapter-11&quot;&gt;Chapter 1.1&lt;/h4&gt;
+&lt;h6 id=&quot;exercises-6-p13&quot;&gt;Exercises 6 (p13):&lt;/h6&gt;
+&lt;p&gt;(a) True. Because 288 is the largest of the three numbers.&lt;br /&gt;
+(b) True. 5MP is higher than 4MP.&lt;br /&gt;
+(c) False.&lt;br /&gt;
+(d) False. The hypothesis of the conditional statements is true and the conclusion is false.&lt;br /&gt;
+(e) False. because the first part of the biconditional statement is false and the second part is true. (or we can say, the truth values of the first part and the second part of the biconditional statement are different.)&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-8&quot;&gt;Exercises 8&lt;/h6&gt;
+&lt;p&gt;(a) I did not buy a lottery ticket this week.&lt;br /&gt;
+(b) I bought a lottery ticket this week, or, I won the million dollar jackpot.&lt;br /&gt;
+(c) If I bought a lottery ticket this week, then I won the million dollar jackpot.&lt;br /&gt;
+(d) I bought a lottery ticket this week and I won the million dollar jackpot.&lt;br /&gt;
+(e) I bought a lottery ticket this week if and only if I won the million dollar jackpot.&lt;br /&gt;
+(f) If I did not buy a lottery ticket this week, then I did not win the million dollar jackpot.&lt;br /&gt;
+(g) I did not buy a lottery ticket this week and I did not win the million dollar jackpot.&lt;br /&gt;
+(h) I did not buy a lottery ticket this week, or I bought a lottery ticket this week and won the million dollar jackpot.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-10&quot;&gt;Exercises 10&lt;/h6&gt;
+&lt;p&gt;(a) The election is not decided.&lt;br /&gt;
+(b) The election is decided, or the votes have been counted.&lt;br /&gt;
+(c) The election is not decided or the votes have been counted.&lt;br /&gt;
+(d) If the votes have been counted then the election is decided.&lt;br /&gt;
+(e) If the votes have not been counted then the election is not decided.&lt;br /&gt;
+(f) If the election is not decided then the votes have not been counted.&lt;br /&gt;
+(g) The election is decided if and only if the votes have been counted.&lt;br /&gt;
+(h) Neither the votes have been counted nor the election is not decided and the votes have been counted.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-26-p15&quot;&gt;Exercises 26 (p15)&lt;/h6&gt;
+&lt;p&gt;(a) You get a A in this course if and only if you learn how to solve discrete mathematics problems.&lt;br /&gt;
+(b) You will be informed and conversely if and only if you read the newspaper everyday.&lt;br /&gt;
+(c) It rains if and only if it is a weekend day.&lt;br /&gt;
+(d) You can see the wizard if and only if he is not in.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-28&quot;&gt;Exercises 28&lt;/h6&gt;
+&lt;p&gt;(a)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;converse: If I stay at home, then it will snow today.&lt;/li&gt;
+  &lt;li&gt;contrapostive: If I do not stay at home, then it will not snow today.&lt;/li&gt;
+  &lt;li&gt;inverse: If it does not snow today, then I will not stay at home.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(b)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;converse: It is a sunny summer day whenever I go to the beach.&lt;/li&gt;
+  &lt;li&gt;contrapostive: It is not a sunny summer day whenever I do not go to the beach.&lt;/li&gt;
+  &lt;li&gt;inverse: I do not go to the beach whenever it is not a sunny summer day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(c)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;converse: When I sleep until noon, it is necessary that I stay up late.&lt;/li&gt;
+  &lt;li&gt;contrapostive: When I do not sleep until noon, it is not necessary that I stay up late.&lt;/li&gt;
+  &lt;li&gt;inverse: When I do not stay up late, it is not necessary that I sleep until noon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;exercises-34&quot;&gt;Exercises 34&lt;/h6&gt;
+&lt;p&gt;(a)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ p&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(b)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;$\neg$ p&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ $\neg$ p&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(c)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;q&lt;/th&gt;
+      &lt;th&gt;$\neg$ q&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ $\neg$ q&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(d)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;q&lt;/th&gt;
+      &lt;th&gt;$\neg$ p&lt;/th&gt;
+      &lt;th&gt;$\neg$ q&lt;/th&gt;
+      &lt;th&gt;$\neg$ p $\oplus$ $\neg$ q&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(e)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;q&lt;/th&gt;
+      &lt;th&gt;$\neg$ q&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ q&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ $\neg$ q&lt;/th&gt;
+      &lt;th&gt;(p $\oplus$ q) $\vee$ (p $\oplus$ $\neg$ q)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(f)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;p&lt;/th&gt;
+      &lt;th&gt;q&lt;/th&gt;
+      &lt;th&gt;$\neg$ q&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ q&lt;/th&gt;
+      &lt;th&gt;p $\oplus$ $\neg$ q&lt;/th&gt;
+      &lt;th&gt;(p $\oplus$ q) $\wedge$ (p $\oplus$ $\neg$ q)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+      &lt;td&gt;T&lt;/td&gt;
+      &lt;td&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;chapter-12&quot;&gt;Chapter 1.2&lt;/h4&gt;
+&lt;h6 id=&quot;exercises-4-p22&quot;&gt;Exercises 4 (p22)&lt;/h6&gt;
+&lt;p&gt;$w \rightarrow s \vee d$&lt;/p&gt;
+&lt;h6 id=&quot;exercises-12-p23&quot;&gt;Exercises 12 (p23)&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;$l$ : “the file system is not locked”&lt;/li&gt;
+  &lt;li&gt;$q$ : “new messages will be queued”&lt;/li&gt;
+  &lt;li&gt;$n$ : “the system is functioning normally”&lt;/li&gt;
+  &lt;li&gt;$b$ : “new messages are sent to the message buffer”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;$l\rightarrow q$&lt;/li&gt;
+  &lt;li&gt;$l\leftrightarrow n$&lt;/li&gt;
+  &lt;li&gt;$\neg q\rightarrow b$&lt;/li&gt;
+  &lt;li&gt;$l\rightarrow b$&lt;/li&gt;
+  &lt;li&gt;$\neg b$&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If the system is consistent, then there exist at least one truth value of each proposition variable such that all the proposition in the system specifications are true.&lt;/p&gt;
+
+&lt;p&gt;Suppose there exists consistency in the system, we know that $b$ is False from 5. From 3 and 4, it can be found that if $l$ is False, then $q$ should be True. Obviously, 1 holds with such settings, and for 2, it will also hold by setting $n$ to be False. Therefore, the system is consistent.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-17&quot;&gt;Exercises 17&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;$f$ : the first prof. needs coffee&lt;/li&gt;
+  &lt;li&gt;$s$ : the second prof. needs coffee&lt;/li&gt;
+  &lt;li&gt;$t$ : the third prof. needs coffee&lt;/li&gt;
+  &lt;li&gt;$e$ : everyone wants coffee.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;f&lt;/li&gt;
+  &lt;li&gt;s&lt;/li&gt;
+  &lt;li&gt;$\neg t$&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;$f\wedge s\wedge t\rightarrow\neg t$&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-18&quot;&gt;Exercises 18&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;$j$ : Jasmine attends&lt;/li&gt;
+  &lt;li&gt;$s$ : Samir attends&lt;/li&gt;
+  &lt;li&gt;$k$ : Kanti attends
+    &lt;ol&gt;
+      &lt;li&gt;$j\rightarrow \neg s$&lt;/li&gt;
+      &lt;li&gt;$s\rightarrow k$&lt;/li&gt;
+      &lt;li&gt;$\neg k\vee j$&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;suppose $j$ is false, then from 3 $k$ is false, and from 2, $s$ will be false, so, none will come. suppose $j$ is True, from 1, $s$ should be False, but $k$ can be either true or false. So, two friend can be invited, or just Jasmine, or nobody.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-23&quot;&gt;Exercises 23&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;$p$ : “A is knave”&lt;/li&gt;
+  &lt;li&gt;$q$ : “B is knave”
+    &lt;ol&gt;
+      &lt;li&gt;$p\wedge q$&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;if 1 is True, then A is a knave which is conflict to the fact that “knave lies”. Thus, 1 is False. So, A is lying, which means A is knave, thus $q$ is False, i.e., B is a knight.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-24&quot;&gt;Exercises 24&lt;/h6&gt;
+&lt;ul&gt;
+  &lt;li&gt;$p$ : “A is a knight”&lt;/li&gt;
+  &lt;li&gt;$q$ : “B is a knight”&lt;/li&gt;
+  &lt;li&gt;$s$ : “C is a knight”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;$p\rightarrow \neg s$&lt;/li&gt;
+  &lt;li&gt;$q\rightarrow p$&lt;/li&gt;
+  &lt;li&gt;$s\rightarrow \neg s$&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;From 3, we know that s is False. So, C can be a knave or spy. We suppose C is a knave, then from 1, we can see A can be a knight or spy, and from 2, if $q$ is True, then B and A are both knights, so $q$ has to be  False, thus, B is a spy. If A is a spy, then from 2, we know $q$ should be false, but the only type left is knight, which is conflict with $q$ is false. Finally, if we set c as a spy, then, from 1, we know $p$ can be True or False, i.e., A can be a knight or knave. From 2, we know that A and B are the same type if we want 2 holds (because the spy has been assigned to C already).&lt;/p&gt;
+
+&lt;h4 id=&quot;chapter-13&quot;&gt;Chapter 1.3&lt;/h4&gt;
+&lt;h6 id=&quot;exercises-6-verifying-the-first-de-morgan-law-p34&quot;&gt;Exercises 6: verifying the first De Morgan law (p.34)&lt;/h6&gt;
+&lt;p&gt;$p$|$q$|$p\wedge q$|$\neg(p\wedge q)$|$\neg p$|$\neg q$|$\neg p \vee \neg q$&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;F&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+          &lt;td&gt;T&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;exercises-8-1&quot;&gt;Exercises 8:&lt;/h6&gt;
+&lt;p&gt;(a)&lt;br /&gt;
+$p$ : “Kwame will take a job in industry”&lt;br /&gt;
+$q$ : “Kwame will go to graduate school”&lt;br /&gt;
+Negation: $\neg (p\vee q)$&lt;br /&gt;
+$\neg (p\vee q)\equiv \neg p\wedge \neg q$&lt;br /&gt;
+Kwame will neither take a job in industry nor go to graduate school.&lt;br /&gt;
+(b)&lt;br /&gt;
+$p$ : “Yoshiko knows Java “&lt;br /&gt;
+$q$ : “Yoshiko knows calculus”&lt;br /&gt;
+Negation: $\neg(p\wedge q)\equiv \neg p\vee\neg q$&lt;br /&gt;
+Yoshiko does not know Java or calculus.&lt;br /&gt;
+(c)&lt;br /&gt;
+$p$ : “James is young”
+$q$ : “James is strong”&lt;br /&gt;
+Negation: $\neg(p\wedge q)\equiv \neg p\vee \neg q$&lt;br /&gt;
+James is not young or not strong.&lt;br /&gt;
+(d)&lt;br /&gt;
+$p$ : “Rita will move to Oregon”&lt;br /&gt;
+$q$ : “Rita will move to Washington”&lt;br /&gt;
+Negation: $\neg(p\vee q)\equiv \neg p\wedge \neg q$&lt;br /&gt;
+Rita will neither move to Oregon nor Washington.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-14&quot;&gt;Exercises 14:&lt;/h6&gt;
+&lt;p&gt;Determine whether $(\neg p\wedge(p\rightarrow q))\rightarrow\neg q$ is a tautology.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$p$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$q$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$\neg p$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$p\rightarrow q$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$\neg p\wedge(p\rightarrow q)$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$\neg q$&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;$(\neg p\wedge(p\rightarrow q))\rightarrow \neg q$&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;F&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;T&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Therefore, it is not a tautology.&lt;/p&gt;
+&lt;h6 id=&quot;exercises-22&quot;&gt;Exercises 22:&lt;/h6&gt;
+&lt;p&gt;Show that $(p\rightarrow q)\vee (p\rightarrow r)$ and $p\rightarrow (q\vee r)$ are logically equivalent.&lt;br /&gt;
+logically equivalent: compound proposition that have the same truth values in all possible cases. (i.e., $p\leftrightarrow q$ is a tautology.)&lt;/p&gt;
+
+&lt;p&gt;Suppose $(p\rightarrow q)\vee (p\rightarrow r)$ is False. So, we can know that $p$ is True, $q$ and $r$ are both False. In such a case, it holds that $p\rightarrow (q\vee r)$ is False. Now, considering when $(p\rightarrow q)\vee (p\rightarrow r)$ is True:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;If $p$ is False, then $p\rightarrow (q\vee r)$ is always True.&lt;/li&gt;
+  &lt;li&gt;If $p$ is True, then at least one of $q$ and $r$ is True. So, $q\vee r$ is always True, and $p\rightarrow (q\vee r)$ is True.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Therefore, the above statement holds.&lt;/p&gt;
+
+&lt;h4 id=&quot;chapter-14&quot;&gt;Chapter 1.4&lt;/h4&gt;
+&lt;h6 id=&quot;exercises-2-p53&quot;&gt;Exercises 2: (p53)&lt;/h6&gt;
+&lt;p&gt;(a) True&lt;br /&gt;
+(b) false&lt;br /&gt;
+(c) false&lt;br /&gt;
+(d) True&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-8-2&quot;&gt;Exercises 8:&lt;/h6&gt;
+&lt;p&gt;(a) If the animal is a rabbit, then it hops.&lt;br /&gt;
+(b) Every animal is a rabbit and it hops.
+(c) There is an animal, if it is a rabbit, then it hops.
+(d) There is an animal, it is a rabbit and it hops.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-14-1&quot;&gt;Exercises 14:&lt;/h6&gt;
+&lt;p&gt;(a) True&lt;br /&gt;
+(b) True&lt;br /&gt;
+(c) True&lt;br /&gt;
+(d) False, it does not holds when $x\le 0$.&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-18-1&quot;&gt;Exercises 18:&lt;/h6&gt;
+&lt;p&gt;$x \in { -2, -1, 0, 1, 2}$&lt;br /&gt;
+(a) $\vee_{x\in{ -2, -1, 0, 1, 2}}P(x)$&lt;br /&gt;
+(b) $P(-2)\wedge P(-1)\wedge P(0)\wedge P(1)\wedge P(2)$&lt;br /&gt;
+(c) $\neg P(-2)\vee \neg P(-1)\vee \neg P(0)\vee \neg P(1)\vee \neg P(2)$&lt;br /&gt;
+(d) $\neg P(-2)\wedge \neg P(-1)\wedge \neg P(0)\wedge \neg P(1)\wedge \neg P(2)$&lt;br /&gt;
+(e) $\neg\exists xP(x)$ = $\forall\neg P(x)$, so, we have $\neg P(-2)\wedge\neg P(-1)\wedge P(0)\wedge P(1)\wedge P(2)$&lt;br /&gt;
+(f) $\neg\forall xP(x)$ = $\exists x \neg P(x)$ so, we have $\neg P(-2)\vee\neg P(-1)\vee\neg P(0)\vee\neg P(1)\vee\neg P(2)$&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-20-rewrite-with-negations-disjunctions-and-conjunctions-only&quot;&gt;Exercises 20: rewrite with negations, disjunctions, and conjunctions only.&lt;/h6&gt;
+&lt;p&gt;$x\in {-5, -3, -1, 1, 3, 5}$&lt;br /&gt;
+(a) $\exists xP(x)$:&lt;br /&gt;
+$P(-5)\vee P(-3)\vee P(-1)\vee P(1)\vee P(3)\vee P(5)$&lt;/p&gt;
+
+&lt;p&gt;(b) $\forall xP(x)$:&lt;br /&gt;
+$P(-5)\wedge P(-3)\wedge P(-1)\wedge P(1)\wedge P(3)\wedge P(5)$&lt;/p&gt;
+
+&lt;p&gt;(c) $\forall x((x\neq 3)\rightarrow P(x))$ = $\forall x(\neg(x\neq 3)\vee P(x))$ :&lt;br /&gt;
+$(\neg(-5\neq 3)\vee P(-5))\wedge (\neg(-3\neq 3)\vee P(-3))\wedge(\neg(-1\neq 3)\vee P(-1))\wedge(\neg(1\neq 3)\vee P(1))\wedge(\neg(3\neq 3)\vee P(3))\wedge(\neg(5\neq 3)\vee P(5))$&lt;/p&gt;
+
+&lt;p&gt;(d) $\exists x((x\ge 0)\wedge P(x))$ :&lt;br /&gt;
+$((-5\ge 0)\wedge P(-5))\vee((-3\ge 0)\wedge P(-3))\vee((-1\ge 0)\wedge P(-1))\vee((1\ge 0)\wedge P(1))\vee((3\ge0)\wedge P(3))\vee((5\ge0)\wedge P(5))$&lt;/p&gt;
+
+&lt;p&gt;(e) $\exists x(\neg P(x))\wedge\forall x((x &amp;lt; 0)\rightarrow P(x))$:
+$\neg P(-5)\vee\neg P(-3)\vee\neg P(-1)\vee\neg P(1)\vee\neg P(3)\vee\neg P(5)\wedge((\neg(-5&amp;lt;0)\vee P(5))\wedge(\neg(-3&amp;lt;0)\vee P(3))\wedge(\neg(-1&amp;lt;0)\vee P(-1))\wedge(\neg(1&amp;lt;0)\vee P(1))\wedge(\neg(3&amp;lt;0)\vee P(3))\wedge(\neg(5&amp;lt;0)\vee P(5)))$&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-26&quot;&gt;Exercises 26:&lt;/h6&gt;
+&lt;p&gt;(a) $U(x)$ : $x$ has visited Uzbekistan; $S(x)$ : $x$ is in your school&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the domain of $x$ is the people in the school:
+    &lt;ul&gt;
+      &lt;li&gt;$\exists xU(x)$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the domain of $x$ is all the people in the world:
+    &lt;ul&gt;
+      &lt;li&gt;$\exists x(R(x)\wedge U(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(b) $C(x)$ : $x$ has studied C++; $Y(x)$ : $x$ is in your class&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the domain of $x$ is the students in your class
+    &lt;ul&gt;
+      &lt;li&gt;$\forall xC(x)$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the domain of $x$ is the people in the world
+    &lt;ul&gt;
+      &lt;li&gt;$\forall x (Y(x)\rightarrow C(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(c) $S(x)$: $x$ is in your school; $B(x)$: $x$ has a bicycle; $M(x)$: $x$ has a motocycle.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the domain of $x$ is the students in your class
+    &lt;ul&gt;
+      &lt;li&gt;$\neg\forall x(B(x)\wedge M(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the domain of $x$ is the people in the world
+    &lt;ul&gt;
+      &lt;li&gt;$\neg\forall x(S(x)\rightarrow B(x)\wedge M(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(d) $H(x)$: $x$ is happy; $S(x)$: $x$ is in your school&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the domain of $x$ is the people in your school
+    &lt;ul&gt;
+      &lt;li&gt;$\neg\forall xH(x)$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the domain of $x$ is the people in the world
+    &lt;ul&gt;
+      &lt;li&gt;$\neg\forall x(S(x)\wedge H(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(e) $S(x)$: $x$ is in your class; $T(x)$: $x$ is born in 20th century&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the domain of $x$ is the people in your class
+    &lt;ul&gt;
+      &lt;li&gt;$\forall xT(x)$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the domain of $x$ is the people in the world
+    &lt;ul&gt;
+      &lt;li&gt;$\forall x(S(x)\rightarrow T(x))$&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;exercises-28-1&quot;&gt;Exercises 28:&lt;/h6&gt;
+&lt;p&gt;(a) $P(x)$: $x$ is in the correct place&lt;br /&gt;
+$\exists x(\neg P(x)) \equiv \neg\forall xP(x)$&lt;/p&gt;
+
+&lt;p&gt;(b) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition; $T(x)$: $x$ is tool  &lt;br /&gt;
+$\forall x(T(x)\rightarrow P(x)\wedge C(x))$&lt;/p&gt;
+
+&lt;p&gt;(c) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition;&lt;br /&gt;
+$\forall x(P(x)\wedge C(x))$&lt;/p&gt;
+
+&lt;p&gt;(d) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition;&lt;br /&gt;
+$\neg\exists xP(x)\wedge(\neg\exists xC(x))$&lt;/p&gt;
+
+&lt;p&gt;(e) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition;&lt;br /&gt;
+$\exists x(\neg P(x)\wedge C(x))$, alternatively, $\exists x(P(x)\rightarrow C(x))$&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-30&quot;&gt;Exercises 30:&lt;/h6&gt;
+&lt;p&gt;(a) $P(1, 3)\vee P(2, 3)\vee P(3, 3)$&lt;br /&gt;
+(b) $P(1, 1)\wedge P(1, 2)\wedge P(1, 3)$&lt;br /&gt;
+(c) $\neg P(2, 1)\vee\neg P(2, 2)\vee\neg P(2, 3)$&lt;br /&gt;
+(d) $\neg P(1, 2)\wedge\neg P(2, 2)\vee\neg P(3, 2)$&lt;/p&gt;
+
+&lt;h6 id=&quot;exercises-36&quot;&gt;Exercises 36:&lt;/h6&gt;
+&lt;p&gt;(a) $x\in {0, 1}$&lt;br /&gt;
+(b) $x\in {\sqrt{2}, -\sqrt{2}}$&lt;br /&gt;
+(c) $x = 0$&lt;/p&gt;</content><author><name>Hogwild</name><email>guxianbinmail@gmail.com</email></author><summary type="html">Discrete_math: the Exercises Week 1: Chapter 1.1 Exercises 6 (p13): (a) True. Because 288 is the largest of the three numbers. (b) True. 5MP is higher than 4MP. (c) False. (d) False. The hypothesis of the conditional statements is true and the conclusion is false. (e) False. because the first part of the biconditional statement is false and the second part is true. (or we can say, the truth values of the first part and the second part of the biconditional statement are different.) Exercises 8 (a) I did not buy a lottery ticket this week. (b) I bought a lottery ticket this week, or, I won the million dollar jackpot. (c) If I bought a lottery ticket this week, then I won the million dollar jackpot. (d) I bought a lottery ticket this week and I won the million dollar jackpot. (e) I bought a lottery ticket this week if and only if I won the million dollar jackpot. (f) If I did not buy a lottery ticket this week, then I did not win the million dollar jackpot. (g) I did not buy a lottery ticket this week and I did not win the million dollar jackpot. (h) I did not buy a lottery ticket this week, or I bought a lottery ticket this week and won the million dollar jackpot. Exercises 10 (a) The election is not decided. (b) The election is decided, or the votes have been counted. (c) The election is not decided or the votes have been counted. (d) If the votes have been counted then the election is decided. (e) If the votes have not been counted then the election is not decided. (f) If the election is not decided then the votes have not been counted. (g) The election is decided if and only if the votes have been counted. (h) Neither the votes have been counted nor the election is not decided and the votes have been counted. Exercises 26 (p15) (a) You get a A in this course if and only if you learn how to solve discrete mathematics problems. (b) You will be informed and conversely if and only if you read the newspaper everyday. (c) It rains if and only if it is a weekend day. (d) You can see the wizard if and only if he is not in. Exercises 28 (a) converse: If I stay at home, then it will snow today. contrapostive: If I do not stay at home, then it will not snow today. inverse: If it does not snow today, then I will not stay at home. (b) converse: It is a sunny summer day whenever I go to the beach. contrapostive: It is not a sunny summer day whenever I do not go to the beach. inverse: I do not go to the beach whenever it is not a sunny summer day. (c) converse: When I sleep until noon, it is necessary that I stay up late. contrapostive: When I do not sleep until noon, it is not necessary that I stay up late. inverse: When I do not stay up late, it is not necessary that I sleep until noon. Exercises 34 (a) p p $\oplus$ p T F F F (b) p $\neg$ p p $\oplus$ $\neg$ p T F T F T T (c) p q $\neg$ q p $\oplus$ $\neg$ q T T F T T F T F F T F F F F T T (d) p q $\neg$ p $\neg$ q $\neg$ p $\oplus$ $\neg$ q T T F F F T F F T T F T T F T F F T T F (e) p q $\neg$ q p $\oplus$ q p $\oplus$ $\neg$ q (p $\oplus$ q) $\vee$ (p $\oplus$ $\neg$ q) T T F F T T T F T T F T F T F T F T F F T F T T (f) p q $\neg$ q p $\oplus$ q p $\oplus$ $\neg$ q (p $\oplus$ q) $\wedge$ (p $\oplus$ $\neg$ q) T T F F T F T F T T F F F T F T F F F F T F T F Chapter 1.2 Exercises 4 (p22) $w \rightarrow s \vee d$ Exercises 12 (p23) $l$ : “the file system is not locked” $q$ : “new messages will be queued” $n$ : “the system is functioning normally” $b$ : “new messages are sent to the message buffer” $l\rightarrow q$ $l\leftrightarrow n$ $\neg q\rightarrow b$ $l\rightarrow b$ $\neg b$ If the system is consistent, then there exist at least one truth value of each proposition variable such that all the proposition in the system specifications are true. Suppose there exists consistency in the system, we know that $b$ is False from 5. From 3 and 4, it can be found that if $l$ is False, then $q$ should be True. Obviously, 1 holds with such settings, and for 2, it will also hold by setting $n$ to be False. Therefore, the system is consistent. Exercises 17 $f$ : the first prof. needs coffee $s$ : the second prof. needs coffee $t$ : the third prof. needs coffee $e$ : everyone wants coffee. f s $\neg t$ $f\wedge s\wedge t\rightarrow\neg t$ Exercises 18 $j$ : Jasmine attends $s$ : Samir attends $k$ : Kanti attends $j\rightarrow \neg s$ $s\rightarrow k$ $\neg k\vee j$ suppose $j$ is false, then from 3 $k$ is false, and from 2, $s$ will be false, so, none will come. suppose $j$ is True, from 1, $s$ should be False, but $k$ can be either true or false. So, two friend can be invited, or just Jasmine, or nobody. Exercises 23 $p$ : “A is knave” $q$ : “B is knave” $p\wedge q$ if 1 is True, then A is a knave which is conflict to the fact that “knave lies”. Thus, 1 is False. So, A is lying, which means A is knave, thus $q$ is False, i.e., B is a knight. Exercises 24 $p$ : “A is a knight” $q$ : “B is a knight” $s$ : “C is a knight” $p\rightarrow \neg s$ $q\rightarrow p$ $s\rightarrow \neg s$ From 3, we know that s is False. So, C can be a knave or spy. We suppose C is a knave, then from 1, we can see A can be a knight or spy, and from 2, if $q$ is True, then B and A are both knights, so $q$ has to be False, thus, B is a spy. If A is a spy, then from 2, we know $q$ should be false, but the only type left is knight, which is conflict with $q$ is false. Finally, if we set c as a spy, then, from 1, we know $p$ can be True or False, i.e., A can be a knight or knave. From 2, we know that A and B are the same type if we want 2 holds (because the spy has been assigned to C already). Chapter 1.3 Exercises 6: verifying the first De Morgan law (p.34) $p$|$q$|$p\wedge q$|$\neg(p\wedge q)$|$\neg p$|$\neg q$|$\neg p \vee \neg q$ T T T F F F F T F F T F T T F T F T T F T F F F T T T T Exercises 8: (a) $p$ : “Kwame will take a job in industry” $q$ : “Kwame will go to graduate school” Negation: $\neg (p\vee q)$ $\neg (p\vee q)\equiv \neg p\wedge \neg q$ Kwame will neither take a job in industry nor go to graduate school. (b) $p$ : “Yoshiko knows Java “ $q$ : “Yoshiko knows calculus” Negation: $\neg(p\wedge q)\equiv \neg p\vee\neg q$ Yoshiko does not know Java or calculus. (c) $p$ : “James is young” $q$ : “James is strong” Negation: $\neg(p\wedge q)\equiv \neg p\vee \neg q$ James is not young or not strong. (d) $p$ : “Rita will move to Oregon” $q$ : “Rita will move to Washington” Negation: $\neg(p\vee q)\equiv \neg p\wedge \neg q$ Rita will neither move to Oregon nor Washington. Exercises 14: Determine whether $(\neg p\wedge(p\rightarrow q))\rightarrow\neg q$ is a tautology. $p$ $q$ $\neg p$ $p\rightarrow q$ $\neg p\wedge(p\rightarrow q)$ $\neg q$ $(\neg p\wedge(p\rightarrow q))\rightarrow \neg q$ T T F T F F T T F F F F T T F T T T T F F F F T T T T T Therefore, it is not a tautology. Exercises 22: Show that $(p\rightarrow q)\vee (p\rightarrow r)$ and $p\rightarrow (q\vee r)$ are logically equivalent. logically equivalent: compound proposition that have the same truth values in all possible cases. (i.e., $p\leftrightarrow q$ is a tautology.) Suppose $(p\rightarrow q)\vee (p\rightarrow r)$ is False. So, we can know that $p$ is True, $q$ and $r$ are both False. In such a case, it holds that $p\rightarrow (q\vee r)$ is False. Now, considering when $(p\rightarrow q)\vee (p\rightarrow r)$ is True: If $p$ is False, then $p\rightarrow (q\vee r)$ is always True. If $p$ is True, then at least one of $q$ and $r$ is True. So, $q\vee r$ is always True, and $p\rightarrow (q\vee r)$ is True. Therefore, the above statement holds. Chapter 1.4 Exercises 2: (p53) (a) True (b) false (c) false (d) True Exercises 8: (a) If the animal is a rabbit, then it hops. (b) Every animal is a rabbit and it hops. (c) There is an animal, if it is a rabbit, then it hops. (d) There is an animal, it is a rabbit and it hops. Exercises 14: (a) True (b) True (c) True (d) False, it does not holds when $x\le 0$. Exercises 18: $x \in { -2, -1, 0, 1, 2}$ (a) $\vee_{x\in{ -2, -1, 0, 1, 2}}P(x)$ (b) $P(-2)\wedge P(-1)\wedge P(0)\wedge P(1)\wedge P(2)$ (c) $\neg P(-2)\vee \neg P(-1)\vee \neg P(0)\vee \neg P(1)\vee \neg P(2)$ (d) $\neg P(-2)\wedge \neg P(-1)\wedge \neg P(0)\wedge \neg P(1)\wedge \neg P(2)$ (e) $\neg\exists xP(x)$ = $\forall\neg P(x)$, so, we have $\neg P(-2)\wedge\neg P(-1)\wedge P(0)\wedge P(1)\wedge P(2)$ (f) $\neg\forall xP(x)$ = $\exists x \neg P(x)$ so, we have $\neg P(-2)\vee\neg P(-1)\vee\neg P(0)\vee\neg P(1)\vee\neg P(2)$ Exercises 20: rewrite with negations, disjunctions, and conjunctions only. $x\in {-5, -3, -1, 1, 3, 5}$ (a) $\exists xP(x)$: $P(-5)\vee P(-3)\vee P(-1)\vee P(1)\vee P(3)\vee P(5)$ (b) $\forall xP(x)$: $P(-5)\wedge P(-3)\wedge P(-1)\wedge P(1)\wedge P(3)\wedge P(5)$ (c) $\forall x((x\neq 3)\rightarrow P(x))$ = $\forall x(\neg(x\neq 3)\vee P(x))$ : $(\neg(-5\neq 3)\vee P(-5))\wedge (\neg(-3\neq 3)\vee P(-3))\wedge(\neg(-1\neq 3)\vee P(-1))\wedge(\neg(1\neq 3)\vee P(1))\wedge(\neg(3\neq 3)\vee P(3))\wedge(\neg(5\neq 3)\vee P(5))$ (d) $\exists x((x\ge 0)\wedge P(x))$ : $((-5\ge 0)\wedge P(-5))\vee((-3\ge 0)\wedge P(-3))\vee((-1\ge 0)\wedge P(-1))\vee((1\ge 0)\wedge P(1))\vee((3\ge0)\wedge P(3))\vee((5\ge0)\wedge P(5))$ (e) $\exists x(\neg P(x))\wedge\forall x((x &amp;lt; 0)\rightarrow P(x))$: $\neg P(-5)\vee\neg P(-3)\vee\neg P(-1)\vee\neg P(1)\vee\neg P(3)\vee\neg P(5)\wedge((\neg(-5&amp;lt;0)\vee P(5))\wedge(\neg(-3&amp;lt;0)\vee P(3))\wedge(\neg(-1&amp;lt;0)\vee P(-1))\wedge(\neg(1&amp;lt;0)\vee P(1))\wedge(\neg(3&amp;lt;0)\vee P(3))\wedge(\neg(5&amp;lt;0)\vee P(5)))$ Exercises 26: (a) $U(x)$ : $x$ has visited Uzbekistan; $S(x)$ : $x$ is in your school the domain of $x$ is the people in the school: $\exists xU(x)$ the domain of $x$ is all the people in the world: $\exists x(R(x)\wedge U(x))$ (b) $C(x)$ : $x$ has studied C++; $Y(x)$ : $x$ is in your class the domain of $x$ is the students in your class $\forall xC(x)$ the domain of $x$ is the people in the world $\forall x (Y(x)\rightarrow C(x))$ (c) $S(x)$: $x$ is in your school; $B(x)$: $x$ has a bicycle; $M(x)$: $x$ has a motocycle. the domain of $x$ is the students in your class $\neg\forall x(B(x)\wedge M(x))$ the domain of $x$ is the people in the world $\neg\forall x(S(x)\rightarrow B(x)\wedge M(x))$ (d) $H(x)$: $x$ is happy; $S(x)$: $x$ is in your school the domain of $x$ is the people in your school $\neg\forall xH(x)$ the domain of $x$ is the people in the world $\neg\forall x(S(x)\wedge H(x))$ (e) $S(x)$: $x$ is in your class; $T(x)$: $x$ is born in 20th century the domain of $x$ is the people in your class $\forall xT(x)$ the domain of $x$ is the people in the world $\forall x(S(x)\rightarrow T(x))$ Exercises 28: (a) $P(x)$: $x$ is in the correct place $\exists x(\neg P(x)) \equiv \neg\forall xP(x)$ (b) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition; $T(x)$: $x$ is tool $\forall x(T(x)\rightarrow P(x)\wedge C(x))$ (c) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition; $\forall x(P(x)\wedge C(x))$ (d) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition; $\neg\exists xP(x)\wedge(\neg\exists xC(x))$ (e) $P(x)$: $x$ is in the correct place; $C(x)$: $x$ is in excellent condition; $\exists x(\neg P(x)\wedge C(x))$, alternatively, $\exists x(P(x)\rightarrow C(x))$ Exercises 30: (a) $P(1, 3)\vee P(2, 3)\vee P(3, 3)$ (b) $P(1, 1)\wedge P(1, 2)\wedge P(1, 3)$ (c) $\neg P(2, 1)\vee\neg P(2, 2)\vee\neg P(2, 3)$ (d) $\neg P(1, 2)\wedge\neg P(2, 2)\vee\neg P(3, 2)$ Exercises 36: (a) $x\in {0, 1}$ (b) $x\in {\sqrt{2}, -\sqrt{2}}$ (c) $x = 0$</summary></entry></feed>
