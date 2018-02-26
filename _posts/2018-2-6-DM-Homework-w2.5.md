@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discrete math Homework week 3
+title: Discrete math Homework week 2.5
 mathjax: true
 ---
 # Discrete_math: the Exercises
