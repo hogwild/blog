@@ -131,7 +131,7 @@ If $c$ is false, from (1), we know that $a$ and $b$ must have same truth values.
 
 
 
-40.This is an identity; each side consists of those things that are in an odd number of the sets $A$, $B$, and $C$.
+40.Using the membership table.
 
 48.We note that these sets are increasing, that is, $A1\subseteq A2\subseteq A3 \subseteq \cdots$. Therefore, the union of any collection
 of these sets is just the one with the largest subscript, and the intersection is just the one with the smallest subscript.
