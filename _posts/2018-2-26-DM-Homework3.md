@@ -86,9 +86,9 @@ b) If $S\notin S$ , then by the defining condition for S we conclude that it is 
 
 ## Chapter 2.2
 
-11.a) $A\cup B =\{x | x \in A\wedge x \in B\} = {x | x\in B\wedge x \in A}= B \cup A$
+11.a) $A\cup B =\{x|x \in A\wedge x \in B\} = \{x| x\in B\wedge x \in A\}= B\cup A$
 
-b) $A\cap B =\{x | x \in A \wedge x \in B\}={x | x \in B \wedge x \in A}= B \cap A$
+b) $A\cap B =\{x|x\in A\wedge x\in B\}=\{x|x \in B \wedge x \in A\}= B\cap A$
 
 18.a) Suppose that $x \in A\cup B$. Then either $x \in A$ or $x \in B$. In either case, certainly $x \in A \cup B \cup C$. This establishes the desired inclusion.
 
