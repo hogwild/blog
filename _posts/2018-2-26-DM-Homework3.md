@@ -4,40 +4,40 @@ title: Discrete math homework 3
 mathjax: true
 ---
 ## Chapter 1.7
-2. We must show that whenever we have two even integers, their sum is even. Suppose that a and b are
+2.We must show that whenever we have two even integers, their sum is even. Suppose that a and b are
 two even integers. Then there exist integers s and t such that $a = 2s$ and $b = 2t$ . Adding, we obtain
 $a + b = 2s + 2t = 2(s + t)$. Since this represents $a + b$ as 2 times the integer $s + t$ , we conclude that $a + b$ is even, as desired.
 
-4. We must show that whenever we have an even integer, its negative is even. Suppose that a is an even integer.
+4.We must show that whenever we have an even integer, its negative is even. Suppose that a is an even integer.
 Then there exists an integer s such that $a = 2s$. Its additive inverse is $−2s$, which by rules of arithmetic and
 algebra (see Appendix 1) equals $2(−s)$. Since this is 2 times the integer $−s$, it is even, as desired.
 
-6. Let $n = m^2$ . If $m = 0$, then $n + 2 = 2$, which is not a perfect square, so we can assume that $m\geq 1$. The smallest perfect square greater than $n$ is $(m + 1)^2$ , and we have $(m + 1)^2 = m^2 + 2m + 1$ $= n + 2m + 1 >
+6.Let $n = m^2$ . If $m = 0$, then $n + 2 = 2$, which is not a perfect square, so we can assume that $m\geq 1$. The smallest perfect square greater than $n$ is $(m + 1)^2$ , and we have $(m + 1)^2 = m^2 + 2m + 1$ $= n + 2m + 1 >
 n + 2\cdot 1 + 1 > n + 2$. Therefore $n + 2$ cannot be a perfect square.
 
 ## Chapter 1.8
-2. The cubes that might go into the sum are 1, 8, 27, 64, 125, 216, 343, 512, and 729. We must show that
+2.The cubes that might go into the sum are 1, 8, 27, 64, 125, 216, 343, 512, and 729. We must show that
 no two of these sum to a number on this list. If we try the 45 combinations (1+1, 1+8, . . . , 1+729, 8+8,
 8 + 27, . . . 8 + 729, . . . , 729 + 729), we see that none of them works. Having exhausted the possibilities, we
 conclude that no cube less than 1000 is the sum of two cubes.
 
-6. Because $x$ and $y$ are of opposite parities, we can assume, without loss of generality, that $x$ is even and
+6.Because $x$ and $y$ are of opposite parities, we can assume, without loss of generality, that $x$ is even and
 $y$ is odd. This tells us that $x = 2m$ for some integer $m$ and $y = 2n + 1$ for some integer $n$. Then
 $5x+5y = 5(2m)+5(2n+1) = 10m+10n+1 = 10(m+n)+1 = 2\cdot 5(m+n)+1$, which satisfies the definition
 of being an odd number.
 
-8. The number 1 has this property, since the only positive integer not exceeding 1 is 1 itself, and therefore the sum is 1. This is a constructive proof.
+8.The number 1 has this property, since the only positive integer not exceeding 1 is 1 itself, and therefore the sum is 1. This is a constructive proof.
 
-10. The only perfect squares that differ by 1 are 0 and 1. Therefore these two consecutive integers cannot both be perfect squares. This is a nonconstructive proof -- we do not know which of them meets the requirement.
+10.The only perfect squares that differ by 1 are 0 and 1. Therefore these two consecutive integers cannot both be perfect squares. This is a nonconstructive proof -- we do not know which of them meets the requirement.
 (In fact, a computer algebra system will tell us that neither of them is a perfect square.)
 
-12. Of these three numbers, at least two must have the same sign (both positive or both negative), since there are only two signs. (It is conceivable that some of them are zero, but we view zero as positive for the purposes of
+12.Of these three numbers, at least two must have the same sign (both positive or both negative), since there are only two signs. (It is conceivable that some of them are zero, but we view zero as positive for the purposes of
 this problem.) The product of two with the same sign is nonnegative. This was a nonconstructive proof, since we have not identified which product is nonnegative. (In fact, a computer algebra system will tell us that all
 three are positive, so all three products are positive.)
 
-15. Please see the appendix of the textbook.
+15.Please see the appendix of the textbook.
 
-16. We know from algebra that the following equations are equivalent: $ax + b = c$, $ax = c − b. x = (c − b)/a$.
+16.We know from algebra that the following equations are equivalent: $ax + b = c$, $ax = c − b. x = (c − b)/a$.
 This shows, constructively, what the unique solution of the given equation is.
 
 
