@@ -12,13 +12,12 @@ $a + b = 2s + 2t = 2(s + t)$. Since this represents $a + b$ as 2 times the integ
 Then there exists an integer s such that $a = 2s$. Its additive inverse is $−2s$, which by rules of arithmetic and
 algebra (see Appendix 1) equals $2(−s)$. Since this is 2 times the integer $−s$, it is even, as desired.
 
-6.Let $n = m^2$ . If $m = 0$, then $n + 2 = 2$, which is not a perfect square, so we can assume that $m\geq 1$. The smallest perfect square greater than $n$ is $(m + 1)^2$ , and we have $(m + 1)^2 = m^2 + 2m + 1$ $= n + 2m + 1 >
-n + 2\cdot 1 + 1 > n + 2$. Therefore $n + 2$ cannot be a perfect square.
+6.An odd number is one of the form $2n + 1$, where n is an integer. We are given two odd numbers, say $2a + 1$ and $2b + 1$. Their product is $(2a + 1)(2b + 1) = 4ab + 2a + 2b + 1 = 2(2ab + a + b) + 1$. This last expression shows that the product is odd, since it is of the form $2n + 1$, with $n = 2ab + a + b$.
 
 ## Chapter 1.8
 2.The cubes that might go into the sum are 1, 8, 27, 64, 125, 216, 343, 512, and 729. We must show that
-no two of these sum to a number on this list. If we try the 45 combinations (1+1, 1+8, . . . , 1+729, 8+8,
-8 + 27, . . . 8 + 729, . . . , 729 + 729), we see that none of them works. Having exhausted the possibilities, we
+no two of these sum to a number on this list. If we try the 45 combinations $(1+1, 1+8, \cdots, 1+729, 8+8,
+8 + 27, \cdots 8 + 729, \cdots, 729 + 729)$, we see that none of them works. Having exhausted the possibilities, we
 conclude that no cube less than 1000 is the sum of two cubes.
 
 6.Because $x$ and $y$ are of opposite parities, we can assume, without loss of generality, that $x$ is even and
@@ -35,7 +34,13 @@ of being an odd number.
 this problem.) The product of two with the same sign is nonnegative. This was a nonconstructive proof, since we have not identified which product is nonnegative. (In fact, a computer algebra system will tell us that all
 three are positive, so all three products are positive.)
 
-15.Please see the appendix of the textbook.
+15.a) This statement asserts the existence of $x$ with a certain property. If we let
+$y = x$, then we see that $P(x)$ is true. If $y$ is anything other than $x$, then $P(x)$ is not true. Thus, $x$ is the unique element that makes $P$ true.
+
+b) The first clause here says that there is an element that makes P true. The second clause says that whenever two elements both make P true, they are in fact the same element. Together these say that P is satisfied by exactly one element.
+
+c) This statement asserts the existence of an $x$ that makes $P$ true and has the further property that whenever we find an element that makes $P$ true, that element is $x$. In other words, $x$ is the unique element that
+makes $P$ true.
 
 16.We know from algebra that the following equations are equivalent: $ax + b = c$, $ax = c − b. x = (c − b)/a$.
 This shows, constructively, what the unique solution of the given equation is.
@@ -46,7 +51,7 @@ This shows, constructively, what the unique solution of the given equation is.
 
 11.Please refer to the appendix of the textbook.
 
-14.We put the subsets inside the supersets. Thus the answer is as shown. 
+14.We put the subsets inside the supersets. Thus the answer is as shown.
 ![ls](ls.png)
 
 20.The cardinality of a set is the number of elements it has.
