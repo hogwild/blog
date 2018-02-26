@@ -53,7 +53,7 @@ First, we proof the existence of the solution. Let $x_1=\frac{b-c}{a}$, it is ea
 ## Chapter 2.1
 10.a) true b) true c) false — see part (a) d) true e) true — the one element in the set on the left is an element of the set on the right, and the sets are not equal f) true — similar to part (e) g) false — the two sets are equal
 
-11.Please refer to the appendix of the textbook.
+11.a) True b) True c) False d) True e) True f) False
 
 14.We put the subsets inside the supersets. Thus the answer is as shown.
 ![ls](ls.png)
@@ -73,7 +73,7 @@ b) $\{(0, x, a), (0, x, b), (0, x, c), (0, y, a), (0, y, b), (0, y, c), (1, x, a
 c) $\{(0, a, x), (0, a, y), (0, b, x), (0, b, y), (0, c, x), (0, c, y), (1, a, x), (1, a, y), (1, b, x), (1, b, y), (1, c, x), (1, c, y)\}$
 d) $\{(x, x, x), (x, x, y), (x, y, x), (x, y, y), (y, x, x), (y, x, y), (y, y, x), (y, y, y)\}$
 
-35.Please see the appendix of textbook.
+35.$mn$
 
 38.Suppose $A\neq B$ and neither $A$ nor $B$ is empty. We must prove that $A\times B \neq B\times A$. Since $A \neq B$, either
 we can find an element $x$ that is in $A$ but not $B$, or vice versa. The two cases are similar, so without loss of
@@ -86,7 +86,9 @@ b) If $S\notin S$ , then by the defining condition for S we conclude that it is 
 
 ## Chapter 2.2
 
-11.Please refer to the textbook.
+11.a) $A\cup B =\{x | x \in A\wedge x \in B\} = {x | x\in B\wedge x \in A}= B \cup A$
+
+b) $A\cap B =\{x | x \in A \wedge x \in B\}={x | x \in B \wedge x \in A}= B \cap A$
 
 18.a) Suppose that $x \in A\cup B$. Then either $x \in A$ or $x \in B$. In either case, certainly $x \in A \cup B \cup C$. This establishes the desired inclusion.
 
