@@ -23,7 +23,7 @@ conclude that no cube less than 1000 is the sum of two cubes.
 
 6. Because $x$ and $y$ are of opposite parities, we can assume, without loss of generality, that $x$ is even and
 $y$ is odd. This tells us that $x = 2m$ for some integer $m$ and $y = 2n + 1$ for some integer $n$. Then
-$5x+5y = 5(2m)+5(2n+1) = 10m+10n+1 = 10(m+n)+1 = 2\codt 5(m+n)+1$, which satisfies the definition
+$5x+5y = 5(2m)+5(2n+1) = 10m+10n+1 = 10(m+n)+1 = 2\cdot 5(m+n)+1$, which satisfies the definition
 of being an odd number.
 
 8. The number 1 has this property, since the only positive integer not exceeding 1 is 1 itself, and therefore the sum is 1. This is a constructive proof.
@@ -41,7 +41,7 @@ three are positive, so all three products are positive.)
 This shows, constructively, what the unique solution of the given equation is.
 
 
-## Chapter 2.2
+## Chapter 2.1
 10.a) true b) true c) false — see part (a) d) true e) true — the one element in the set on the left is an element of the set on the right, and the sets are not equal f) true — similar to part (e) g) false — the two sets are equal
 
 11.Please refer to the appendix of the textbook.
