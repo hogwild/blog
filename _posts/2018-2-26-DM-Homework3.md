@@ -46,8 +46,8 @@ This shows, constructively, what the unique solution of the given equation is.
 
 11.Please refer to the appendix of the textbook.
 
-14.We put the subsets inside the supersets. Thus the answer is as shown.
-(image will upload soon)
+14.We put the subsets inside the supersets. Thus the answer is as shown. 
+![ls](ls.png)
 
 20.The cardinality of a set is the number of elements it has.
 a) The empty set has no elements, so its cardinality is 0.
