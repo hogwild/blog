@@ -34,16 +34,20 @@ of being an odd number.
 this problem.) The product of two with the same sign is nonnegative. This was a nonconstructive proof, since we have not identified which product is nonnegative. (In fact, a computer algebra system will tell us that all
 three are positive, so all three products are positive.)
 
-15.a) This statement asserts the existence of $x$ with a certain property. If we let
-$y = x$, then we see that $P(x)$ is true. If $y$ is anything other than $x$, then $P(x)$ is not true. Thus, $x$ is the unique element that makes $P$ true.
+15.a) This statement asserts the existence of $x$ with a certain property. If we let $y = x$, then we see that $P(x)$ is true. If $y$ is anything other than $x$, then $P(x)$ is not true. Thus, $x$ is the unique element that makes $P$ true.
 
-b) The first clause here says that there is an element that makes P true. The second clause says that whenever two elements both make P true, they are in fact the same element. Together these say that P is satisfied by exactly one element.
+b) The first clause here says that there is an element that makes $P$ true. The second clause says that whenever two elements both make $P$ true, they are in fact the same element. Together these say that $P$ is satisfied by exactly one element.
 
-c) This statement asserts the existence of an $x$ that makes $P$ true and has the further property that whenever we find an element that makes $P$ true, that element is $x$. In other words, $x$ is the unique element that
-makes $P$ true.
+c) This statement asserts the existence of an $x$ that makes $P$ true and has the further property that whenever we find an element that makes $P$ true, that element is $x$. In other words, $x$ is the unique element that makes $P$ true.
+
+Alternatively: This statement asserts that there exists an element $x$ that makes $P(x)\wedge \forall y(P(y)\rightarrow x=y)$ true which means there is an $x$ for whom $P(x)$ is true and for every $y$ if $P(y)$ is true, then $y = x$ holds. Therefore, $x$ is unique.
 
 16.We know from algebra that the following equations are equivalent: $ax + b = c$, $ax = c − b. x = (c − b)/a$.
 This shows, constructively, what the unique solution of the given equation is.
+
+Alternative proof.  
+First, we proof the existence of the solution. Let $x_1=\frac{b-c}{a}$, it is easy to verify $x_1$ is a solution of the equation. Second, we proof the uniqueness of $x_1$. Assume that there exists $x_2$ that also a solution of the equation. So, we have $ax_1 + b = c$ and $ax_2 + b = c$ and $ax_1 + b = ax_2 + b$. Then, $x_1 = x_2$ since $a\neq 0$ which is conflict with $x_1 \neq x_2$. Therefore, $x_1$ is unique.
+
 
 
 ## Chapter 2.1
