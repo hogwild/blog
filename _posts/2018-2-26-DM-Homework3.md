@@ -86,7 +86,7 @@ b) If $S\notin S$ , then by the defining condition for S we conclude that it is 
 
 ## Chapter 2.2
 
-11.a) $A\cup B =\{x|x \in A\wedge x \in B\} = \{x| x\in B\wedge x \in A\}= B\cup A$
+11.a) $A\cup B =\{x|x \in A\vee x \in B\} = \{x| x\in B\vee x \in A\}= B\cup A$
 
 b) $A\cap B =\{x|x\in A\wedge x\in B\}=\{x|x \in B \wedge x \in A\}= B\cap A$
 
@@ -104,13 +104,32 @@ e) To establish the equality, we need to prove inclusion in both directions. To 
 (B\cup C)−A$, suppose that $x \in (B −A)\cup (C −A)$. Then either $x\in (B −A)$ or $x \in (C −A)$. Without loss of generality, assume the former (the proof in the latter case is exactly parallel.) Then $x \in B$ and $x \notin A$. From the first of these assertions, it follows that $x \in B\cup C$. Thus we can conclude that $x \in (B\cup C)−A$, as desired. For the converse, that is, to show that $(B \cup C) − A \subseteq (B − A) \cup (C − A)$, suppose that $x \in (B \cup C) − A$.
 This means that $x \in (B \cup C)$ and $x \notin A$. The first of these assertions tells us that either $x \in B$ or $x \in C$. Thus either $x \in B − A$ or $x \in C − A$. In either case, $x \in (B − A) \cup (C − A)$. (An alternative proof could be given by using Venn diagrams, showing that both sides represent the same region.)
 
-30.a) We cannot conclude that $A = B$. For instance, if $A$ and $B$ are both subsets of $C$, then this equation will
+Alternatively:
+The left-hand side of $(B-A)\cup(C-A) = (B\cup C) - A$ can be rewritten as $\{x|x\in (B-A)\vee x\in (C-A)\}=\{x|(x\in B\wedge x\notin A)\vee(x\in C\wedge x\notin A)\}$, then by the distributive laws and absorption laws of logical equivalence, we have $\{x|x\in B \vee x\in C\wedge x\notin A\} = (B\cup C) -A$.
+
+30.Can you conclude that $A=B$ if $A$, $B$, and $C$ are sets such that  
+(a) $A\cup C = B\cup C$ ?  
+(b) $A\cap C = B\cap C$ ?  
+(c) $A\cup C = B\cup C$ and $A\cap C = B\cap C$ ?
+
+Solutions:  
+a) We cannot conclude that $A = B$. For instance, if $A$ and $B$ are both subsets of $C$, then this equation will
 always hold, and $A$ need not equal $B$.
 
 b) We cannot conclude that $A = B$; let $C = \emptyset$, for example.
 
 c) By putting the two conditions together, we can now conclude that $A = B$. By symmetry, it suffices to
 prove that $A \subset B$. Suppose that $x \in A$. There are two cases. If $x \in C$, then $x \in A \cap C = B \cap C$, which forces $x \in B$. On the other hand, if $x \notin C$, then because $x \in A \cup C = B \cup C$, we must have $x\in B$.
+
+Alternatively:  
+We set $a$ represents $x\in A$, $b$ represents $x\in B$, and $c$ represents $x\in C$. For every $x$ in the domain, the following two statement that are always be true:
+
+$a\vee c = b\vee c$ (1)  
+$a\wedge c = b\wedge c$ (2)
+
+If $c$ is false, from (1), we know that $a$ and $b$ must have same truth values. Thus, $x\in A$ holds iff $x\in B$ holds. When $c$ is true, from (2), we know that $a$ and $b$ must both be true. Thus, we have $x\in A$ and $x\in B$. Therefore, we always have $A = B$.
+
+
 
 40.This is an identity; each side consists of those things that are in an odd number of the sets $A$, $B$, and $C$.
 
